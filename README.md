@@ -1,6 +1,6 @@
 ### Oii, sou Letícia Costa 👋🥰
 
-- 🟡 Estou tentando melhorar meus conhecimentos em CSS e HTML
+- 🟡 Estou melhorando meus conhecimentos em CSS e HTML
 - 🌱 Estudando Javascript, lógica de programação e React
 - ♀️ Pronome: ela/dela.
  
