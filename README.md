@@ -1,7 +1,6 @@
 ### Oii, sou Letícia Costa 👋🥰
 
-- 🟡 Melhorando meus conhecimentos em React
-- 🌱 Estudando Javascript, lógica de programação, Angular e Java
+- 🌱 Estudando Angular e Java
 - ♀️ Pronome: ela/dela.
  
 ##
